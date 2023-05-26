@@ -1,2 +1,2 @@
 # prework-study-guide
-U of M Coding Bootcamp Pre-Work
+U of M Coding Bootcamp Prework
